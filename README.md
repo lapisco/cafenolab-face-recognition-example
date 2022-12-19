@@ -4,6 +4,7 @@
   * Ambiente Virtual (sugestões: virtualenvwrapper, virtualenv ou venv)
   * Python 3 (sugestões: 3.8, 3.10)
   * OS: Ubuntu, Windows, MAC (sugestão: Ubuntu)
+  * CMake (caso não esteja instalado)
 
 ## Configuração do ambiente
 
