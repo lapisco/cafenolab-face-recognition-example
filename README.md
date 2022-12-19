@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Para Rodar o código:
   * Abrir terminal
   * Ativar a env: `workon cafe_no_lab`
-  * Rodar code para subir o job de processamento: `python main.py`
+  * Rodar: `python main.py`
 
 ## Links úteis:
   * [Dlib](http://dlib.net/)
