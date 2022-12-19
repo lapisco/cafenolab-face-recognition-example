@@ -1,0 +1,10 @@
+dlib
+numpy
+opencv-python
+pandas
+Pillow
+pydantic
+python-dateutil
+pytz
+six
+typing_extensions
