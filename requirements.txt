@@ -3,6 +3,7 @@ numpy
 opencv-python
 pandas
 Pillow
+psycopg2-binary
 pydantic
 python-dateutil
 pytz
